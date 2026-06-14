@@ -1,0 +1,9 @@
+\left(\frac{4x}{5}\right)^{2\ }+y^{2\ \ }=\ 3
+-4\left(x-1\right)^{2\ }+3\left\{0.429<x<1.69\right\}\
+-4\left(x+1\right)^{2\ }+3\left\{-1.69<x<-0.429\right\}
+\frac{2x}{3}^{\ \ 2\ }-1\left\{-1<x<1\right\}
+\left(0.7-x\right)^{2\ }+\left(\frac{1}{3}y-0.2\right)^{2\ }=0.03
+\left(0.7+x\right)^{2\ }+\left(\frac{1}{3}y-0.2\right)^{2\ }=0.03
+\frac{x}{2}^{2\ }+\left(y+0.5\right)^{2\ }\le0.04
+\frac{x}{5}-\frac{1}{2}\left\{-5\le x\le-2,2\le x\le5\right\}
+-\frac{x}{5}-\frac{1}{2}\left\{-5\le x\le-2,2\le x\le5\right\}
